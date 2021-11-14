@@ -1,2 +1,2 @@
-# AllocationTest-Unity
-Allocation tests for Unity
+# AllocationVerification-Unity
+Allocation verifications in Unity C#
