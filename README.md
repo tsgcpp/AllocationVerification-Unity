@@ -10,3 +10,6 @@ Tests to verify allocations in C#.
 
 ### Tests
 Tests to verify features, so they will pass exactly unlike AllocationTests.
+
+## Notes
+- You chan use `Contains` method for `IReadOnlyList` with [TSCSharpSystemExtension](https://github.com/tsgcpp/TSCSharpSystemExtension)
